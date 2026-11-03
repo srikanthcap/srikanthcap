@@ -1,4 +1,5 @@
 
+
 <div align="center">
 
 # Hi 👋, I'm Srikanth
@@ -24,18 +25,18 @@
 
 ## 🛠️ Technical Skills
 
-**Programming Languages**
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Data Analytics**
+### Data Analytics
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Tools**
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -66,11 +67,13 @@ Project focused on structured audit logging and tracking.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=srikanthcap&show_icons=true&theme=tokyonight" height="160" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanthcap&layout=compact&theme=tokyonight" height="160" />
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Visit_My_Profile-181717?style=for-the-badge&logo=github)](https://github.com/srikanthcap)
 
 </div>
+
+- 👨‍💻 **Username:** [srikanthcap](https://github.com/srikanthcap)
+- 📁 **Repositories:** [Explore My Projects](https://github.com/srikanthcap?tab=repositories)
+- ⭐ **Explore my work:** Check out my pinned repositories.
 
 ---
 
@@ -78,7 +81,7 @@ Project focused on structured audit logging and tracking.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/srikanthcap)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srikanthcap)
 
 </div>
 
@@ -88,8 +91,6 @@ Project focused on structured audit logging and tracking.
 
 ### ⭐ Thanks for visiting my profile!
 
-*Always learning. Always building. Always growing.*
+*Always Learning | Always Building | Always Growing*
 
 </div>
-
--->
